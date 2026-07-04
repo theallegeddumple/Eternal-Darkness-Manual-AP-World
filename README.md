@@ -92,6 +92,9 @@ How many Essences of the Ancients are needed as a requirement to access Alex's c
 ## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
 
 -Sanity effects as traps
+
 -Deathlink
+
 -Have it so that X number runes in the Ruin of Ehn'gha are pre-activated for Alex's chapter, for less strict spells required for completion
+
 -Enchanted Gladius as a potential item in the pool
