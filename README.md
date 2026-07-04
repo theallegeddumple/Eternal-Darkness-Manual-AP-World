@@ -29,16 +29,16 @@ With the exception of the Recover spell (which would just be cruel to not let yo
 
 To complete this randomizer you need to complete Alex's Chapter from the Jump Into Game option.
 This requires by default:
--All 4 Essences of the Ancients (Chattur'gha's Claw, Ulyaoth's Veil, Xel'lotath's Sigil, Mantorok's Heart)
--7 chapters completed out of other 11
--Enchant Item spell access.
+1. All 4 Essences of the Ancients (Chattur'gha's Claw, Ulyaoth's Veil, Xel'lotath's Sigil, Mantorok's Heart)
+2. 7 chapters completed out of other 11
+3. Enchant Item spell access.
 
 By default "Skip to Pious" is disabled so you also need:
--Shield access
--Dispel Magick access
--Magickal Attack access
--Access to all 3 Summoning Spells (trapper, zombie, horror)
--Reveal Invisible access
+1. Shield access
+2. Dispel Magick access
+3. Magickal Attack access
+4. Access to all 3 Summoning Spells (trapper, zombie, horror)
+5. Reveal Invisible access
 
 Since this is a manual Archipelago, if you have the "Skip to Pious" option enabled you can just play Alex's chapter ahead of time up until it prompts you to save before the final fight.
 Once it asks if you want to save, drop a save there, and then you can just load it when you have all the requirements for that fight. 
@@ -46,14 +46,14 @@ Another option is that you just ignore the "can't cast spells until you find the
 
 ## NOTES:
 
-Against reaper enemies, you can just target their "wings" to deal damage. This gets around their blocking.
-If you want to repair your weapon as Elia after picking up the blowgun, you can tag the zombies with a dart and lure them away.
- If you're doing an Ulyaoth run, this makes sure that the guard doesn't die to the Ulyaoth zombie death explosion.
-In Edward's chapter, you're trying to cast "Dispel Magick" (Nethlek Redgormor Counter-Ancient).
-To get the Elephant Gun in Edward's chapter, you have to let the Vampire find the first victim on the upper floor and save him. Talk to him after the vampire flees and he'll give you the key.
-In Michael's chapter, the ladder you're looking for is near where the worms are that 'guard' the Emerald Effigy. It's hidden by both the camera and a wooden support.
-Items do NOT carry between characters in "Jump Into Game" mode so the Enchanted Gladius is unavailable.
-In Alex's chapter, you're trying to cast "Summon Creature" (Tier Aretak Counter-Ancient).
+1. Against reaper enemies, you can just target their "wings" to deal damage. This gets around their blocking.
+2. If you want to repair your weapon as Elia after picking up the blowgun, you can tag the zombies with a dart and lure them away.
+3. If you're doing an Ulyaoth run, this makes sure that the guard doesn't die to the Ulyaoth zombie death explosion.
+4. In Edward's chapter, you're trying to cast "Dispel Magick" (Nethlek Redgormor Counter-Ancient).
+5. To get the Elephant Gun in Edward's chapter, you have to let the Vampire find the first victim on the upper floor and save him. Talk to him after the vampire flees and he'll give you the key.
+6. In Michael's chapter, the ladder you're looking for is near where the worms are that 'guard' the Emerald Effigy. It's hidden by both the camera and a wooden support.
+7. Items do NOT carry between characters in "Jump Into Game" mode so the Enchanted Gladius is unavailable.
+8. In Alex's chapter, you're trying to cast "Summon Creature" (Tier Aretak Counter-Ancient).
 
 ## OPTIONS:
 
