@@ -94,7 +94,7 @@ How many chapters have to be completed as a requirement to access Alex's chapter
  
  Default: 7
 
-5. Ancient Essences Needed
+6. Ancient Essences Needed
 
 How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
 
