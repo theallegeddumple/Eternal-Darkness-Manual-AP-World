@@ -54,35 +54,46 @@ Another option is that you just ignore the "can't cast spells until you find the
 6. In Michael's chapter, the ladder you're looking for is near where the worms are that 'guard' the Emerald Effigy. It's hidden by both the camera and a wooden support.
 7. Items do NOT carry between characters in "Jump Into Game" mode so the Enchanted Gladius is unavailable.
 8. In Alex's chapter, you're trying to cast "Summon Creature" (Tier Aretak Counter-Ancient).
+9. You can stealth walk by holding 'X'. This is only really mandatory in one specific room in the final chapter if you don't skip to Pious.
 
 ## OPTIONS:
 
--Skip to Pious
+1. Skip to Pious
 Reduces the number of items you need to complete the seed by assuming you're just going to load a save before Pious once Alex's chapter is available.
- It's a toggle, so only "yes" or "no".
 
--Chapter Pages Available
+It's a toggle, so only "yes" or "no".
+
+2. Chapter Pages Available
 The number of pages a chapter has available in the pool.
+
  Minimum: 1
- Maximum: 5
+
+ Maximum: 6
+ 
  Default: 4
 
 -Chapter Pages Needed
 How many chapter pages you need to gain access to a new chapter to play. Note that this must NOT be more than what pages are available.
  Minimum: 1
- Maximum: 4
+ Maximum: 6
  Default: 3
 
--Chapter Completions Needed
+3. Chapter Completions Needed
 How many chapters have to be completed as a requirement to access Alex's chapter.
+
  Minimum: 1
+ 
  Maximum: 11
+ 
  Default: 7
 
--Ancient Essences Needed
+4. Ancient Essences Needed
 How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
+
  Minimum: 0
+ 
  Maximum: 4
+ 
  Default: 4
 
 ## PLANNED OPTIONS:
