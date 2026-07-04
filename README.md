@@ -88,8 +88,6 @@ How many Essences of the Ancients are needed as a requirement to access Alex's c
 ## PLANNED OPTIONS:
 
 -Optional setting where spells are gated through rune availability instead.
--Keysanity: All keys or key-ish items are in the pool as locations rather than the selective keys that are currently in.
- So for example, each piece of the green urn in Anthony's chapter would individually be a check.
 
 ## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
 
