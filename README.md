@@ -87,14 +87,11 @@ How many Essences of the Ancients are needed as a requirement to access Alex's c
 
 ## PLANNED OPTIONS:
 
--Optional setting where spells are gated through rune availability instead.
+1. Optional setting where spells are gated through rune availability instead.
 
 ## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
 
--Sanity effects as traps
-
--Deathlink
-
--Have it so that X number runes in the Ruin of Ehn'gha are pre-activated for Alex's chapter, for less strict spells required for completion
-
--Enchanted Gladius as a potential item in the pool
+1. Sanity effects as traps
+2. Deathlink
+3. Have it so that X number runes in the Ruin of Ehn'gha are pre-activated for Alex's chapter, for less strict spells required for completion
+4. Enchanted Gladius as a potential item in the pool
