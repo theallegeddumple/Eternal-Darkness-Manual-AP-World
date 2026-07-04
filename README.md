@@ -84,7 +84,7 @@ How many chapter pages you need to gain access to a new chapter to play. Note th
  
  Default: 3
 
-5. Chapter Completions Needed
+4. Chapter Completions Needed
 
 How many chapters have to be completed as a requirement to access Alex's chapter.
 
@@ -94,7 +94,7 @@ How many chapters have to be completed as a requirement to access Alex's chapter
  
  Default: 7
 
-6. Ancient Essences Needed
+5. Ancient Essences Needed
 
 How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
 
