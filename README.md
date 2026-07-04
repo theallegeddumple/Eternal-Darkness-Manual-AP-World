@@ -1,2 +1,99 @@
-# Eternal-Darkness-Manual-AP-World
-A Manual Archipelago World for Eternal Darkness: Sanity's Requiem for the Nintendo Gamecube.
+# Manual
+
+## GETTING STARTED:
+
+You are going to need to get a copy of Eternal Darkness: Sanity's Requiem somehow. No, I won't tell you where to find it.
+Emulating it is fine, but I am going to tell you this:
+
+The way this Manual Archipelago is set up relies on the "Jump Into Game" option on the Main Menu. This is unlocked by doing two playthroughs of the game with a different Ancient chosen each run.
+
+I would suggest Ulyaoth as the first run and Xel'lotath as your second.
+ Chattur'gha is probably the hardest of the three since his minions do extra health damage and are hard to kill,
+ Ulyaoth is the easiest since magick is easily replenished by walking or even just spinning in place,
+ and the Xel'lotath path is strangely inconsistent in difficulty until you get the Chattur'gha rune in Max's chapter.
+
+Or just download a save off of the internet and use that. It's your call. I would at least play through the game once yourself just so you know where to go and what to do.
+
+I'm also going to assume you're NOT playing this on Eternal Mode, which is what is unlocked when you do 3 playthroughs with a different Ancient.
+ Eternal mode is just Nigh-Invulnerable (save for a select few instant deaths) + Infinite Ammo + Infinite Magick + Every Spell Unlocked.
+
+By the way, you cycle which Ancient you choose for that chapter in the "Jump Into Game" option by pressing up and down when it says to select your fate. It's a bit counter-intuitive.
+
+## PROGRESSION GATING:
+
+You only start with the first chapter as Pious, collecting 3 of the 4 chapter pages (BY DEFAULT) in the pool gives you access to that chapter. Completing a chapter gives you a Chapter Completion Token, which is a requirement to complete the seed.
+
+With the exception of the Recover spell (which would just be cruel to not let you have), every spell requires finding the spell access item for that particular item.
+
+## COMPLETION REQUIREMENTS:
+
+To complete this randomizer you need to complete Alex's Chapter from the Jump Into Game option.
+This requires by default:
+-All 4 Essences of the Ancients (Chattur'gha's Claw, Ulyaoth's Veil, Xel'lotath's Sigil, Mantorok's Heart)
+-7 chapters completed out of other 11
+-Enchant Item spell access.
+
+By default "Skip to Pious" is disabled so you also need:
+-Shield access
+-Dispel Magick access
+-Magickal Attack access
+-Access to all 3 Summoning Spells (trapper, zombie, horror)
+-Reveal Invisible access
+
+Since this is a manual Archipelago, if you have the "Skip to Pious" option enabled you can just play Alex's chapter ahead of time up until it prompts you to save before the final fight.
+Once it asks if you want to save, drop a save there, and then you can just load it when you have all the requirements for that fight. 
+Another option is that you just ignore the "can't cast spells until you find the item" requirement and rush the chapter as fast as you can.
+
+## NOTES:
+
+Against reaper enemies, you can just target their "wings" to deal damage. This gets around their blocking.
+If you want to repair your weapon as Elia after picking up the blowgun, you can tag the zombies with a dart and lure them away.
+ If you're doing an Ulyaoth run, this makes sure that the guard doesn't die to the Ulyaoth zombie death explosion.
+In Edward's chapter, you're trying to cast "Dispel Magick" (Nethlek Redgormor Counter-Ancient).
+To get the Elephant Gun in Edward's chapter, you have to let the Vampire find the first victim on the upper floor and save him. Talk to him after the vampire flees and he'll give you the key.
+In Michael's chapter, the ladder you're looking for is near where the worms are that 'guard' the Emerald Effigy. It's hidden by both the camera and a wooden support.
+Items do NOT carry between characters in "Jump Into Game" mode so the Enchanted Gladius is unavailable.
+In Alex's chapter, you're trying to cast "Summon Creature" (Tier Aretak Counter-Ancient).
+
+## OPTIONS:
+
+-Skip to Pious
+Reduces the number of items you need to complete the seed by assuming you're just going to load a save before Pious once Alex's chapter is available.
+ It's a toggle, so only "yes" or "no".
+
+-Chapter Pages Available
+The number of pages a chapter has available in the pool.
+ Minimum: 1
+ Maximum: 5
+ Default: 4
+
+-Chapter Pages Needed
+How many chapter pages you need to gain access to a new chapter to play. Note that this must NOT be more than what pages are available.
+ Minimum: 1
+ Maximum: 4
+ Default: 3
+
+-Chapter Completions Needed
+How many chapters have to be completed as a requirement to access Alex's chapter.
+ Minimum: 1
+ Maximum: 11
+ Default: 7
+
+-Ancient Essences Needed
+How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
+ Minimum: 0
+ Maximum: 4
+ Default: 4
+
+## PLANNED OPTIONS:
+
+-Optional setting where spells are gated through rune availability instead.
+-Keysanity: All keys or key-ish items are in the pool as locations rather than the selective keys that are currently in.
+ So for example, each piece of the green urn in Anthony's chapter would individually be a check.
+
+## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
+
+-Sanity effects as traps
+-Deathlink
+-Have it so that X number runes in the Ruin of Ehn'gha are pre-activated for Alex's chapter, for less strict spells required for completion
+-Enchanted Gladius as a potential item in the pool
