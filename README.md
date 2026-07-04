@@ -77,8 +77,11 @@ The number of pages a chapter has available in the pool.
 3. Chapter Pages Needed
 
 How many chapter pages you need to gain access to a new chapter to play. Note that this must NOT be more than what pages are available.
+
  Minimum: 1
+ 
  Maximum: 6
+ 
  Default: 3
 
 5. Chapter Completions Needed
