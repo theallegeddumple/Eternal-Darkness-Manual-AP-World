@@ -59,11 +59,13 @@ Another option is that you just ignore the "can't cast spells until you find the
 ## OPTIONS:
 
 1. Skip to Pious
+
 Reduces the number of items you need to complete the seed by assuming you're just going to load a save before Pious once Alex's chapter is available.
 
 It's a toggle, so only "yes" or "no".
 
 2. Chapter Pages Available
+
 The number of pages a chapter has available in the pool.
 
  Minimum: 1
@@ -72,13 +74,15 @@ The number of pages a chapter has available in the pool.
  
  Default: 4
 
--Chapter Pages Needed
+3. Chapter Pages Needed
+
 How many chapter pages you need to gain access to a new chapter to play. Note that this must NOT be more than what pages are available.
  Minimum: 1
  Maximum: 6
  Default: 3
 
-3. Chapter Completions Needed
+5. Chapter Completions Needed
+
 How many chapters have to be completed as a requirement to access Alex's chapter.
 
  Minimum: 1
@@ -87,7 +91,8 @@ How many chapters have to be completed as a requirement to access Alex's chapter
  
  Default: 7
 
-4. Ancient Essences Needed
+5. Ancient Essences Needed
+
 How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
 
  Minimum: 0
