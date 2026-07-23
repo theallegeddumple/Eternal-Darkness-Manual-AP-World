@@ -1,5 +1,9 @@
 # Manual
 
+## ! IMPORTANT NOTE: THIS IS AN AFTER DARK MANUAL ARCHIPELAGO WORLD !
+
+Yeah sorry, there's simply too much dismemberment of a lot of people and creatures in this game to not warrant that. So don't request to play this on a non-after dark discord.
+
 ## GETTING STARTED:
 
 You are going to need to get a copy of Eternal Darkness: Sanity's Requiem somehow. No, I won't tell you where to find it.
@@ -24,6 +28,10 @@ By the way, you cycle which Ancient you choose for that chapter in the "Jump Int
 You only start with the first chapter as Pious, collecting 3 of the 4 chapter pages (BY DEFAULT) in the pool gives you access to that chapter. Completing a chapter gives you a Chapter Completion Token, which is a requirement to complete the seed.
 
 With the exception of the Recover spell (which would just be cruel to not let you have), every spell requires finding the spell access item for that particular item.
+
+New with 1.1 is that access to the higher tier spell circles and the Ancient Runes themselves are now blocked until you have the Progressive Items in question. So with One progressive Circle of Power and One progressive Ancient Rune on the Ulyaoth run you can cast 3 rune spells with the Chattur'gha rune.
+
+There's also a new option to tie progression via Runes rather than through directly using the spell. Due to the afformentioned cruelty of not being able to recover health, Narokath and Santak are labeled as "Early" items.
 
 ## COMPLETION REQUIREMENTS:
 
@@ -64,7 +72,13 @@ Reduces the number of items you need to complete the seed by assuming you're jus
 
 It's a toggle, so only "yes" or "no".
 
-2. Chapter Pages Available
+2. (!NEW!) Runes as Progression
+
+Changes the progression items to be access to specific Runes rather than access to that specific spell. Narokath and Santak are set to show up early in the item pool for playability purposes.
+
+It's a toggle, so only "yes" or "no".
+
+3. Chapter Pages Available
 
 The number of pages a chapter has available in the pool.
 
@@ -74,7 +88,7 @@ The number of pages a chapter has available in the pool.
  
  Default: 4
 
-3. Chapter Pages Needed
+4. Chapter Pages Needed
 
 How many chapter pages you need to gain access to a new chapter to play. Note that this must NOT be more than what pages are available.
 
@@ -84,7 +98,7 @@ How many chapter pages you need to gain access to a new chapter to play. Note th
  
  Default: 3
 
-4. Chapter Completions Needed
+5. Chapter Completions Needed
 
 How many chapters have to be completed as a requirement to access Alex's chapter.
 
@@ -94,7 +108,7 @@ How many chapters have to be completed as a requirement to access Alex's chapter
  
  Default: 7
 
-5. Ancient Essences Needed
+6. Ancient Essences Needed
 
 How many Essences of the Ancients are needed as a requirement to access Alex's chapter.
 
@@ -106,7 +120,7 @@ How many Essences of the Ancients are needed as a requirement to access Alex's c
 
 ## PLANNED OPTIONS:
 
-1. Optional setting where spells are gated through rune availability instead.
+1. Optional setting where keys and Rune Blocking Doors are added to the pool.
 
 ## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
 
