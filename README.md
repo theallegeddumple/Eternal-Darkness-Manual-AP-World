@@ -34,6 +34,7 @@ New with 1.1 is that access to the higher tier spell circles and the Ancient Run
 There's also a new option to tie progression via Runes rather than through directly using the spell.
 
 In 1.2 there's also a new option called Easy Logic that ensures that any chapter past 5 requires all 3 Progressive Ancient Runes the moment combat occurs.
+There's also a new setting for including the key items in the pool, but this is disabled by default.
 
 ## COMPLETION REQUIREMENTS:
 
