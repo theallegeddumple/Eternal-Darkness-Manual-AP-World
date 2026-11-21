@@ -138,9 +138,11 @@ How many Essences of the Ancients are needed as a requirement to access Alex's c
  
  Default: 4
 
-## PLANNED OPTIONS:
+9. Specific Chapter Completions Required
 
-1. An option to have it so that certain chapter completions can be set as Mandatory in the settings.
+I'm not going to list each of them out, but for Chapters 2 - 11 there are options to make the completion for that required. By default, these are all OFF.
+
+It's a toggle, so only "yes" or "no".
 
 ## WOULD-BE-NICE-IF-IT-WASN'T-MANUAL FEATURES:
 
